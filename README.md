@@ -1,12 +1,8 @@
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
+
 
 <h1>Oracle Database Monitor For Daily Check ADO.net</h1>
 
-<p>I programmed this windows form application which connects to oracle database to perform routine daily jobs, this app includes 3 tabs </p>
+<p style="color:blue;">I programmed this windows form application which connects to oracle database to perform routine daily jobs, this app includes 3 tabs </p>
 
 <div align="center">
 <img  src="https://github.com/mobeenk/Oracle-Database-DailyCheck/blob/main/demo.gif" width="700" height="500" />
