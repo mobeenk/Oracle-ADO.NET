@@ -2,7 +2,7 @@
 
 <h1>Oracle Database Monitor For Daily Check ADO.net</h1>
 
-<p style="color:blue;">I programmed this windows form application which connects to oracle database to perform routine daily jobs, this app includes 3 tabs </p>
+<p>I programmed this windows form application which connects to oracle database to perform routine daily jobs, this app includes 3 tabs </p>
 
 <div align="center">
 <img  src="https://github.com/mobeenk/Oracle-Database-DailyCheck/blob/main/demo.gif" width="700" height="500" />
@@ -10,7 +10,7 @@
 
 <ul>
   <li>tab1 have set of times of each column that will run multiple queries to the database and output the result on grids</li>
-  <img  src="https://github.com/mobeenk/Oracle-Database-DailyCheck/blob/main/1.jpg" width="400" height="300" />
+  <img  align="center" src="https://github.com/mobeenk/Oracle-Database-DailyCheck/blob/main/1.jpg" width="400" height="300" />
   <li>tab3 it checks on visa groups states during the process and has the ability to compose a ticket</li>
   <li>tab3 is an Excel report generator which is sent everyday to a set of local email addreasses</li>
 </ul>
