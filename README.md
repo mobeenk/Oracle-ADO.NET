@@ -12,9 +12,11 @@
   <li>tab1 have set of times of each column that will run multiple queries to the database and output the result on grids</li>
   <img  align="center" src="https://github.com/mobeenk/Oracle-Database-DailyCheck/blob/main/1.jpg" width="550" height="300" />
   <li>tab3 it checks on visa groups states during the process and has the ability to compose a ticket</li>
+      <img  align="center" src="https://github.com/mobeenk/Oracle-Database-DailyCheck/blob/main/2.png" width="550" height="300" />
   <br>
   <li>tab3 is an Excel report generator which is sent everyday to a set of local email addreasses</li>
-    <img  align="center" src="https://github.com/mobeenk/Oracle-Database-DailyCheck/blob/main/2.png" width="550" height="300" />
+      <img  align="center" src="https://github.com/mobeenk/Oracle-Database-DailyCheck/blob/main/3.jpg" width="550" height="300" />
+
 </ul>
 
 
