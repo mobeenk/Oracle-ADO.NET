@@ -16,8 +16,6 @@
   <li>tab3 it checks on visa groups states during the process and has the ability to compose a ticket</li>
       <img  align="center" src="https://github.com/mobeenk/Oracle-Database-DailyCheck/blob/main/2.png" width="550" height="300" />
   <br>
-  <li>tab3 is an Excel report generator which is sent everyday to a set of local email addreasses</li>
-      <img  align="center" src="https://github.com/mobeenk/Oracle-Database-DailyCheck/blob/main/3.jpg" width="550" height="300" />
 
   </ol>
 </div>
